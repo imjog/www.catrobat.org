@@ -257,6 +257,8 @@ img {
 
 #contact-footer {
   clear: both;
+  min-height: 0;
+  height: auto;
 }
 
 #contact {
